@@ -13,7 +13,7 @@ function Home() {
             <Link
               className="navbar-brand"
               to="/"
-              style={{ color: "orange", marginTop: "10px" }}
+              style={{ color: "orange", marginTop: "20px" }}
             >
               <h2>Food Heaven</h2>
             </Link>
